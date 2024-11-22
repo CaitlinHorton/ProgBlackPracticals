@@ -1,0 +1,15 @@
+{
+  "name": "progblackpracticals",
+  "version": "0.0.1",
+  "description": "Week7 Prac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ProgBlackPracticals"
+  },
+  "author": "Caitlin Horton",
+  "license": "ISC"
+}
